@@ -2,7 +2,7 @@
 
 This Repository have files related to my app development journey.
 
-## App 1: Versace App
+## App 1: Versace App (in Versace-App branch)
 - It is an E-Commerce App.
 - FLUTTER is used as a frontend framework.
 - FIREBASE is used as a Backend server.
@@ -14,7 +14,7 @@ This Repository have files related to my app development journey.
 ![git_2](https://user-images.githubusercontent.com/102468013/223166162-4a076510-d1e7-4315-a642-de7254809a5d.PNG)
 
 
-## App 2: Money Tracker App
+## App 2: Money Tracker App (in master branch)
 - It is an app which tracks cashflow of a person or organization.
 - FLUTTER is used as a frontend framework.
 - FIREBASE is used as a Backend server.
